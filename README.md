@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Alainderson :D
 
 Estudando HTML, CSS e JavaScript
-ele/dele
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ala-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
