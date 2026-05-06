@@ -8,7 +8,7 @@ Desenvolvedor Power Platform expandindo para o ecossistema Java.
 
 ### 🛠️ Tecnologias
 
-<div style="display: inline_block"><br>
+<div style="display: flex;justify-content:center;flex-direction:row"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -18,5 +18,3 @@ Desenvolvedor Power Platform expandindo para o ecossistema Java.
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-### 📊 GitHub Stats
-![Alainderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alainderson&show_icons=true&theme=dracula)
